@@ -8,8 +8,7 @@ Pueden hacer lo que quieran...
 
 
 ### Cambios nuevos desde el local
-
-### Cambios nuevos desde visual code
+### Cambios nuevos desde locales
 
 
 #hola mundo
