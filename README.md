@@ -7,7 +7,7 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia
 Pueden hacer lo que quieran...
 
 
-### Cambios nuevos desde github
+### Cambios nuevos desde el local
 
 
 #hola mundo
